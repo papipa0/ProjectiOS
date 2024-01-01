@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>We need to access your photo library</string>
+	<key>NSCameraUsageDescription</key>
+	<string>We need to access your camera to take photos</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.690325525662-cspls2fkc4r0oreg9k7fehaaiaj94j96</string>
+			</array>
+		</dict>
+	</array>
+	<key>GIDClientID</key>
+	<string>690325525662-cspls2fkc4r0oreg9k7fehaaiaj94j96.apps.googleusercontent.com</string>
+</dict>
+</plist>
